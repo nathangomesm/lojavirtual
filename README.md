@@ -1,3 +1,5 @@
 # lojavirtual
 
-AlteraÁ„o no repositÛrio local.
+Altera√ß√£o no reposit√≥rio local.
+
+Altera√ß√£o via GitHub.
